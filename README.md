@@ -1,1 +1,1 @@
-yet another repo
+# Task from Selenium AutoTesting course
